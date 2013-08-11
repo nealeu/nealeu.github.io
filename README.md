@@ -1,4 +1,3 @@
-eccosolutions.github.com
+Maybe someday...
 ========================
 
-Public static resources
